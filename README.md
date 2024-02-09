@@ -17,8 +17,4 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/Vaalls">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaalls&layout=compact&langs_count=7&theme=tokyonight"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaalls&layout=compact&langs_count=7&theme=tokyonight"/>
   
-</div>
