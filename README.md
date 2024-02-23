@@ -10,6 +10,15 @@
 
 ##
 
+<div heigth="190em">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaalls&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaalls&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+</div>
+
+##
+
+##
+
 <div> 
   <a href="https://instagram.com/_vaalls" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-valls-539301256" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
