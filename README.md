@@ -1,11 +1,20 @@
 ## Eai!! eu sou o Gabriel Valls
 
 - 🔭 Hoje trabalho como suporte de TI
-- 🌱 Estudando Python
-- ⚡ Amo dados ❤
+- 🌱 Estudando Python, TypeScript, Java, Angular, SQL
+- ⚡ Gosto bastante de desenvolvimento de sistemas e manipulação de dados 
+
+##
+<h3>Tecnologias e ferramentas</h3>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Python" height="30" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" /> 
+<img align="center" alt="-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
 </div>
 
 ##
