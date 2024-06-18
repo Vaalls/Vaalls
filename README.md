@@ -1,6 +1,6 @@
 ## Eai!! eu sou o Gabriel Valls
 
-- 🔭 Hoje trabalho como suporte de TI
+- 🔭 Hoje estou a procura de um trabalho em TI
 - 🌱 Estudando Python, TypeScript, Java, Angular, SQL Oracle
 - ⚡ Gosto bastante de desenvolvimento de sistemas e manipulação de dados 
 
